@@ -5,7 +5,7 @@
   <a href="mailto:leamilak11@gmail.com">
     <img src="https://img.shields.io/badge/Email-leamilak11%40gmail.com-blue?style=flat-square&logo=gmail" alt="Email" />
   </a>
-  <a href="https://linkedin.com/in/leamilak-silitanu">
+  <a href="https://www.linkedin.com/in/leamilak-silitanu-41a5b33bb/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn" />
   </a>
   <img src="https://img.shields.io/badge/Location-Debremarkos,%20Ethiopia-green?style=flat-square" alt="Location" />
@@ -91,7 +91,7 @@ I'm a **4th-year Software Engineering student** at **Debremarkos University**, p
   <a href="mailto:leamilak11@gmail.com">
     <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/leamilak-silitanu">
+  <a href="https://www.linkedin.com/in/leamilak-silitanu-41a5b33bb/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
