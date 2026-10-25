@@ -1,107 +1,93 @@
-<h1 align="center">Hi there, I'm Leamilak Silitanu 👋</h1>
-<h3 align="center">AI Engineer & Python Developer | Building Intelligent Systems with ML & LLMs</h3>
+<div align="center">
 
-<p align="center">
-  <a href="mailto:leamilak11@gmail.com">
-    <img src="https://img.shields.io/badge/Email-leamilak11%40gmail.com-blue?style=flat-square&logo=gmail" alt="Email" />
-  </a>
-  <a href="https://www.linkedin.com/in/leamilak-silitanu-41a5b33bb/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn" />
-  </a>
-  <img src="https://img.shields.io/badge/Location-Debremarkos,%20Ethiopia-green?style=flat-square" alt="Location" />
-  <img src="https://img.shields.io/badge/Timezone-UTC%2B03:00-orange?style=flat-square" alt="Timezone" />
-</p>
+# Hi, I'm Leamilak Silitanu 👋
+
+**Software Engineering Student · Full-Stack & Mobile Developer**
+
+I build practical apps with React, Python, and mobile frameworks, and I'm growing toward AI-powered products.
+
+<a href="mailto:leamilak11@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://www.linkedin.com/in/leamilak-silitanu-41a5b33bb/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+
+</div>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-I'm a **4th-year Software Engineering student** at **Debremarkos University**, passionate about pushing the boundaries of Artificial Intelligence. I specialize in building practical AI solutions using **Machine Learning**, **Large Language Models (LLMs)**, and **Python**.
-
-- 🔭 Currently working on AI/ML projects that solve real-world problems
-- 🌱 Deep diving into **LLMs**, **Generative AI**, and **MLOps**
-- 💡 I love turning complex data into actionable intelligence
-- 🤝 Open to collaborating on AI research, open-source ML tools, and innovative projects
-- 📫 Reach me at: **leamilak11@gmail.com**
+- 🎓 Software Engineering student at **Debre Markos University**
+- 🔭 Building full-stack web and mobile apps, with a growing focus on **AI-powered products**
+- 🌱 Currently learning: **Python for AI, system design, cloud deployment**
+- 🎯 Goal: join a high-impact engineering team, and eventually launch my own product
+- 📫 Open to internships, collaborations, freelance work, and full-time roles
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages & Frameworks
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-</p>
+**Languages**
 
-### AI & LLM Tools
-<p>
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-</p>
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 
-### Development & Deployment
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
-</p>
+**Frontend & Mobile**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+**Backend & Databases**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+> Only list tools you can confidently discuss in an interview.
+
+---
+
+## 🚀 Featured Projects
+
+### 🤖 AI Chatbot App
+Full-stack ChatGPT-style assistant with real-time streaming responses.
+- **Stack:** React, FastAPI, SQLite, Groq API
+- **Highlights:** Server-Sent Events (SSE) streaming, persistent chat history, clean REST API
+- 🔗 [Source Code](https://github.com/leamilak11-lgtm/REPO-NAME)
+
+### 💬 MarkosChat
+Mobile chat app built for the Debre Markos University community.
+- **Stack:** React Native, FastAPI
+- **Highlights:** Real-time messaging, mobile-first UX
+- 🔗 [Source Code](https://github.com/leamilak11-lgtm/REPO-NAME)
+
+### 🌾 AgroWise AI
+AI-powered agriculture assistant for Ethiopian farmers, including crop disease detection from photos.
+- **Stack:** Flutter, FastAPI, PostgreSQL, PyTorch
+- **Highlights:** Computer-vision disease detection, phased MVP approach
+- 🔗 [Source Code](https://github.com/leamilak11-lgtm/REPO-NAME)
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=leamilak11-lgtm&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=leamilak11-lgtm&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leamilak11-lgtm&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=leamilak11-lgtm&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leamilak11-lgtm&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" alt="Top languages"/>
+</div>
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=leamilak11-lgtm&theme=tokyonight&no-frame=true&row=1&column=6" alt="Trophies" />
-</p>
-
----
-
-## 🌟 Featured Projects
-
-> *Coming soon — check out my pinned repositories below for my latest AI/ML work!*
-
----
-
-## 📬 Let's Connect
-
-<p align="center">
-  <a href="mailto:leamilak11@gmail.com">
-    <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/leamilak-silitanu-41a5b33bb/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=leamilak11-lgtm&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
-
-<p align="center">
-  <i>⭐ From <a href="https://github.com/leamilak11-lgtm">leamilak11-lgtm</a></i>
-</p>
+<div align="center">
+  <i>"Make it work, make it right, make it fast." – Kent Beck</i>
+</div>
